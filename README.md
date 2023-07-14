@@ -3,8 +3,8 @@
 
 <h2>Projects:</h2>
 
-- <b>Windows Server</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Proxmox Hypervisor</b>
+  - [Self-hosting Wordpress on an Ubuntu Server](https://tech.nestodiaz.com/2023/07/07/self-hosting-wordpress/))
 - <b>Linux</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
