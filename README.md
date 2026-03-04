@@ -27,5 +27,5 @@ I currently manage networking and endpoint infrastructure for **50+ retail locat
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestodiaztx/)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=hugo&logoColor=white)](https://ernestodiaz.tech)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=hugo&logoColor=white)](https://ernestodiaz.net)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white)](mailto:ernesto@ernestodiaz.tech)
