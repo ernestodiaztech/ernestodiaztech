@@ -1,23 +1,31 @@
-<h1>Hi, I'm Ernesto!
-<br><a href="https://www.linkedin.com/in/ernestodiaztx/">IT Support Specialist</a>, <a href="https://www.youtube.com/c/ernestodiaztech">YouTuber</a>, <a href="https://tech.nestodiaz.com">Content Creator</a></h1>
+# Hey, I'm Ernesto
 
-<h2>Projects:</h2>
+**Assistant IT Manager** based in Grand Prairie, TX, focused on building and scaling network infrastructure across distributed environments.
 
-- <b>Proxmox Hypervisor</b>
-  - [Self-hosting Wordpress on an Ubuntu Server](https://tech.nestodiaz.com/2023/07/07/self-hosting-wordpress/)
-- <b>Linux</b>
-  - WIP
-- <b>PowerShell</b>
-  - [Azure Basic Tasks](https://tech.nestodiaz.com/2023/07/05/azure-ad-basic-tasks/)
+I currently manage networking and endpoint infrastructure for **50+ retail locations and two warehouses** — from SD-WAN architecture and switch standardization to automation with Ansible and PowerShell. I made the jump into IT after nearly two decades in retail operations, and I haven't looked back.
 
-<h2>Popular YouTube Videos</h2>
+---
 
-- WIP
+### 🔧 What I Work With
 
-<h2>Connect with me:</h2>
+**Networking** · Routing & Switching · SD-WAN · VLANs · Firewalls · PCI Compliance  
+**Wireless** · Ruckus · Extreme Networks · Cradlepoint  
+**Automation** · Ansible · PowerShell · Bash  
+**Endpoint Management** · Intune · Jamf · NinjaOne · Action1  
+**Tools** · Git · GitHub · Linux
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[instagram]: https://www.instagram.com/ernestodiaz.tx/
-[linkedin]: https://www.linkedin.com/in/ernestodiaztx/
+### 📌 What I'm Up To
+
+- Automating network deployments and troubleshooting workflows with Ansible
+- Standardizing infrastructure across a growing multi-site retail environment
+- Writing about what I'm learning at [ernestodiaz.tech](https://ernestodiaz.tech)
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestodiaztx/)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=hugo&logoColor=white)](https://ernestodiaz.tech)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white)](mailto:ernesto@ernestodiaz.tech)
