@@ -2,7 +2,7 @@
 
 **Assistant IT Manager** based in Grand Prairie, TX, focused on building and scaling network infrastructure across distributed environments.
 
-I currently manage networking and endpoint infrastructure for 50+ retail locations and two warehouses. From SD-WAN architecture and switch standardization to automation with Ansible and PowerShell. I made the jump into IT after nearly two decades in retail operations, and I haven't looked back.
+I currently manage networking and endpoint infrastructure for 50+ retail locations and two warehouses. From SD-WAN architecture and switch standardization to automation with Ansible and PowerShell. I made the jump into IT after nearly two decades in retail operations.
 
 ---
 
